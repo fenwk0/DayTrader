@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="daytrader-db2-datasource" />
+        <module name="daytrader-derby-datasource" />
+        <module name="daytrader-ear" />
+        <module name="daytrader-informix-datasource" />
+        <module name="daytrader-jetty" />
+        <module name="daytrader-jms" />
+        <module name="daytrader-mysql-datasource" />
+        <module name="daytrader-oracle-datasource" />
+        <module name="daytrader-postgre-datasource" />
+        <module name="daytrader-sqlserver-datasource" />
+        <module name="daytrader-tomcat" />
+        <module name="entities" />
+        <module name="plans" />
+        <module name="utils" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
